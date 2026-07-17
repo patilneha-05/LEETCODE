@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/patilneha-05/LEETCODE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0704-binary-search](https://github.com/patilneha-05/LEETCODE/tree/master/0704-binary-search) |
+| [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/patilneha-05/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/patilneha-05/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilneha-05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |

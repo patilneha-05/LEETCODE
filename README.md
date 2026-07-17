@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/patilneha-05/LEETCODE/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/patilneha-05/LEETCODE/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

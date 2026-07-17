@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0704-binary-search](https://github.com/patilneha-05/LEETCODE/tree/master/0704-binary-search) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/patilneha-05/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/patilneha-05/LEETCODE/tree/master/0704-binary-search) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/patilneha-05/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/patilneha-05/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

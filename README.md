@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/patilneha-05/LEETCODE/tree/master/0050-powx-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/patilneha-05/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/patilneha-05/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/patilneha-05/LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/patilneha-05/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |

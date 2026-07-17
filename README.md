@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/patilneha-05/LEETCODE/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patilneha-05/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## Sliding Window
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patilneha-05/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

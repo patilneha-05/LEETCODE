@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/patilneha-05/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/patilneha-05/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/patilneha-05/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/patilneha-05/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/patilneha-05/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patilneha-05/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/patilneha-05/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/patilneha-05/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [1539-kth-missing-positive-number](https://github.com/patilneha-05/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 ## Graph Theory
 |  |
 | ------- |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/patilneha-05/LEETCODE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patilneha-05/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/patilneha-05/LEETCODE/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/patilneha-05/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/patilneha-05/LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/patilneha-05/LEETCODE/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/patilneha-05/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/patilneha-05/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/patilneha-05/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/patilneha-05/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/patilneha-05/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -109,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/patilneha-05/LEETCODE/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

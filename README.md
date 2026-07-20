@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/patilneha-05/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/patilneha-05/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0771-jewels-and-stones](https://github.com/patilneha-05/LEETCODE/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/patilneha-05/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilneha-05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0771-jewels-and-stones](https://github.com/patilneha-05/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/patilneha-05/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/patilneha-05/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/patilneha-05/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/patilneha-05/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/patilneha-05/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/patilneha-05/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/patilneha-05/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/patilneha-05/LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/patilneha-05/LEETCODE/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
+| [1512-number-of-good-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/patilneha-05/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/patilneha-05/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/patilneha-05/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/patilneha-05/LEETCODE/tree/master/0561-array-partition) |
+| [1512-number-of-good-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/patilneha-05/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |

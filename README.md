@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/patilneha-05/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilneha-05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/patilneha-05/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0771-jewels-and-stones](https://github.com/patilneha-05/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/patilneha-05/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/patilneha-05/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/patilneha-05/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/patilneha-05/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patilneha-05/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/patilneha-05/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/patilneha-05/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patilneha-05/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/patilneha-05/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/patilneha-05/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/patilneha-05/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/patilneha-05/LEETCODE/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/patilneha-05/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/patilneha-05/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/patilneha-05/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0826-most-profit-assigning-work](https://github.com/patilneha-05/LEETCODE/tree/master/0826-most-profit-assigning-work) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilneha-05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/patilneha-05/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/patilneha-05/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 ## Linked List
 |  |

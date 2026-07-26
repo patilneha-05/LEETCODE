@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/patilneha-05/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/patilneha-05/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/patilneha-05/LEETCODE/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/patilneha-05/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/patilneha-05/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/patilneha-05/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/patilneha-05/LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/patilneha-05/LEETCODE/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/patilneha-05/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/patilneha-05/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/patilneha-05/LEETCODE/tree/master/0164-maximum-gap) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/patilneha-05/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/patilneha-05/LEETCODE/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-most-profit-assigning-work](https://github.com/patilneha-05/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |

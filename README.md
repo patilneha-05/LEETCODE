@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patilneha-05/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/patilneha-05/LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/patilneha-05/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/patilneha-05/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/patilneha-05/LEETCODE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/patilneha-05/LEETCODE/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/patilneha-05/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/patilneha-05/LEETCODE/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |

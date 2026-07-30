@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/patilneha-05/LEETCODE/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patilneha-05/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/patilneha-05/LEETCODE/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/patilneha-05/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/patilneha-05/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/patilneha-05/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilneha-05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/patilneha-05/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/patilneha-05/LEETCODE/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/patilneha-05/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/patilneha-05/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -134,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/patilneha-05/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/patilneha-05/LEETCODE/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/patilneha-05/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/patilneha-05/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/patilneha-05/LEETCODE/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/patilneha-05/LEETCODE/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/patilneha-05/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/patilneha-05/LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/patilneha-05/LEETCODE/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/patilneha-05/LEETCODE/tree/master/0561-array-partition) |
 | [1512-number-of-good-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/patilneha-05/LEETCODE/tree/master/3467-transform-array-by-parity) |

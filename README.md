@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/patilneha-05/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/patilneha-05/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/patilneha-05/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/patilneha-05/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/patilneha-05/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patilneha-05/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilneha-05/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patilneha-05/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/patilneha-05/LEETCODE/tree/master/0877-stone-game) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/patilneha-05/LEETCODE/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

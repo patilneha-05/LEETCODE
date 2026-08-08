@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/patilneha-05/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/patilneha-05/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/patilneha-05/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/patilneha-05/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/patilneha-05/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/patilneha-05/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/patilneha-05/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/patilneha-05/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/patilneha-05/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/patilneha-05/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |

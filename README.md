@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/patilneha-05/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/patilneha-05/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/patilneha-05/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/patilneha-05/LEETCODE/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/patilneha-05/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/patilneha-05/LEETCODE/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/patilneha-05/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/patilneha-05/LEETCODE/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/patilneha-05/LEETCODE/tree/master/0412-fizz-buzz) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/patilneha-05/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/patilneha-05/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/patilneha-05/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |

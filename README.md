@@ -337,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/patilneha-05/LEETCODE/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/patilneha-05/LEETCODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

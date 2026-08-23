@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilneha-05/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/patilneha-05/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/patilneha-05/LEETCODE/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/patilneha-05/LEETCODE/tree/master/0202-happy-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/patilneha-05/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/patilneha-05/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/patilneha-05/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/patilneha-05/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/patilneha-05/LEETCODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/patilneha-05/LEETCODE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/patilneha-05/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/patilneha-05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/patilneha-05/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patilneha-05/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/patilneha-05/LEETCODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/patilneha-05/LEETCODE/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/patilneha-05/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0826-most-profit-assigning-work](https://github.com/patilneha-05/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [0977-squares-of-a-sorted-array](https://github.com/patilneha-05/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/patilneha-05/LEETCODE/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/patilneha-05/LEETCODE/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/patilneha-05/LEETCODE/tree/master/0577-employee-bonus) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/patilneha-05/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

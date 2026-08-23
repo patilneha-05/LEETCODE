@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/patilneha-05/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/patilneha-05/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/patilneha-05/LEETCODE/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/patilneha-05/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/patilneha-05/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/patilneha-05/LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/patilneha-05/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/patilneha-05/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/patilneha-05/LEETCODE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/patilneha-05/LEETCODE/tree/master/0204-count-primes) |
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/patilneha-05/LEETCODE/tree/master/0202-happy-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/patilneha-05/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

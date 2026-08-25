@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/patilneha-05/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/patilneha-05/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/patilneha-05/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/patilneha-05/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/patilneha-05/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/patilneha-05/LEETCODE/tree/master/0018-4sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patilneha-05/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/patilneha-05/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/patilneha-05/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/patilneha-05/LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patilneha-05/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/patilneha-05/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/patilneha-05/LEETCODE/tree/master/0561-array-partition) |
 | [0826-most-profit-assigning-work](https://github.com/patilneha-05/LEETCODE/tree/master/0826-most-profit-assigning-work) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/patilneha-05/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

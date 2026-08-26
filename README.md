@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/patilneha-05/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/patilneha-05/LEETCODE/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/patilneha-05/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/patilneha-05/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/patilneha-05/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/patilneha-05/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/patilneha-05/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/patilneha-05/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/patilneha-05/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/patilneha-05/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/patilneha-05/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/patilneha-05/LEETCODE/tree/master/0189-rotate-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/patilneha-05/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/patilneha-05/LEETCODE/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/patilneha-05/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/patilneha-05/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/patilneha-05/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/patilneha-05/LEETCODE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/patilneha-05/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/patilneha-05/LEETCODE/tree/master/0191-number-of-1-bits) |

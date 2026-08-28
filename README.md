@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/patilneha-05/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/patilneha-05/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/patilneha-05/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/patilneha-05/LEETCODE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/patilneha-05/LEETCODE/tree/master/0164-maximum-gap) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/patilneha-05/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/patilneha-05/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/patilneha-05/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/patilneha-05/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/patilneha-05/LEETCODE/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/patilneha-05/LEETCODE/tree/master/1048-longest-string-chain) |

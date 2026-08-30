@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/patilneha-05/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/patilneha-05/LEETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/patilneha-05/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/patilneha-05/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/patilneha-05/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/patilneha-05/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/patilneha-05/LEETCODE/tree/master/3467-transform-array-by-parity) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/patilneha-05/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/patilneha-05/LEETCODE/tree/master/0561-array-partition) |
 | [0826-most-profit-assigning-work](https://github.com/patilneha-05/LEETCODE/tree/master/0826-most-profit-assigning-work) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/patilneha-05/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/patilneha-05/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
